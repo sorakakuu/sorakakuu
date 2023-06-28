@@ -1,7 +1,16 @@
-### Hi there 👋
+### Nice to pleasure, I'm Sorakaku.
+----
+Thanks for viewing my profile.
+</br></br>
+Counters:</br>
+<p> <img alt="Stats2" src="https://komarev.com/ghpvc/?username=sorakakuu" /> </p>
+Stats:</br>
+<p> <img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sorakakuu&theme=dracula" /> </p> 
+
+
 
 <!--
-**sorakakuu/sorakakuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ryukora/ryukora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
